@@ -1,0 +1,40 @@
+.dengru1{
+	border: 1px solid #CCCCCC;
+	background-color:#FA6D24;
+	color: white;
+	width: 200;
+	height: 20;
+	text-align: center;
+	border-radius: 30px;
+}
+a{
+	text-decoration: none;
+}
+p{
+	font-family: 宋体;
+}
+.dengru2{
+	vertical-align: top;
+}
+.dengru3{
+	padding: 10px;
+}
+.logo1{
+	vertical-align: top;
+	height: 39px;
+}
+.logo2{
+	text-align: center;
+	font-family: 宋体;
+	vertical-align: middle;
+}
+.kaosi1{
+	border: 1px solid #FFFFFF;
+	background-color: #FFFFFF;
+	width: 20;
+	height: 10;
+	text-align: center;
+}
+.juezhu1{
+	margin-top: 0px;
+}
