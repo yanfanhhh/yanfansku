@@ -1,0 +1,16 @@
+.dian{
+	display: block;
+	position: fixed;
+	bottom: 0px;
+	right: 2px;
+	margin-right: 18px;
+	border: 1px soild black;
+	width: 4px;
+}
+.dian a{
+	width: 20px;
+}
+.diang{
+	margin-right: auto;
+	width: 98%;
+}

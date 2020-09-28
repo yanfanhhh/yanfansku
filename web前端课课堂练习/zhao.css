@@ -1,0 +1,26 @@
+.zhu{
+	background-color: #ffffff;
+	width: 80%;
+	margin: auto;
+}
+.kb{
+	background-color: #9BB3A6;
+	height: 3px;
+	width: 45%;
+	margin: 0 auto;
+	display: block;
+	float: left;
+}
+.dd{
+	font-size: 24px;
+	text-align: center;
+	color: #9BB3A6;
+	display: block;
+	float: left;
+	margin-top: -16px;
+}
+.xian{
+	height: 3px;
+	width: 30%;
+	margin: auto;
+}
